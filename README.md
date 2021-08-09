@@ -1,4 +1,4 @@
 # SQL
-SQL commands and projects
+SQL commands and project
 
 All SQL Commands were performed on Northwind DB.
